@@ -6,7 +6,7 @@ function Circle(){
 
     return(
         <div>
-            <h1>Area of The Shapes (using Function Container)</h1>
+            <h1>Area of The Shapes (using Function Component)</h1>
             <hr/>
             <h3>Circle</h3>
             <p>radius of circle : {radius}</p>
